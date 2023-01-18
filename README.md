@@ -1,9 +1,10 @@
 ## Coursera Retention Prediction Competition
 
 Coursera launched it's first ever data science competition on their platform where millions of students participated to predict user retention. 
-I was able to achieve only 71.18% score (top score: 76.55%), The current python notebook is updated and may achieve higher score on their test dataset. I wasn't able to hypertune randomforest and xgboost due to low computational power (I left the code in cell comment for you to try it out).
+Although, I achieved 71.18% score (top score: 76.55%) on their test dataset, the current python notebook is updated and may achieve higher score. I wasn't able to hypertune randomforest and xgboost due to low computational power.
 
-Also, If you go through my python notebook, I would love to hear your feedback and any guidance that will help me to improve. 
+If you go through my python notebook, I would love to hear your feedback and any guidance that will help me to improve. 
+
 
 ## Table of Contents
 * [Problem Statement](#problem-statement)
