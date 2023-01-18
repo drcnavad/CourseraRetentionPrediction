@@ -1,7 +1,7 @@
 ## Coursera Retention Prediction Competition
 
 Coursera launched it's first ever data science competition on their platform where millions of students participated to predict user retention. 
-I was able to achieve only 71.18% score (top score: 76.55%), however, the current python notebook is updated and may achieve higher score on their test dataset. I wasn't able to hypertune randomforest and xgboost due to low computational power (I left the code in cell comment for you to try it out).
+I was able to achieve only 71.18% score (top score: 76.55%), The current python notebook is updated and may achieve higher score on their test dataset. I wasn't able to hypertune randomforest and xgboost due to low computational power (I left the code in cell comment for you to try it out).
 
 Also, If you go through my python notebook, I would love to hear your feedback and any guidance that will help me to improve. 
 
@@ -16,6 +16,8 @@ Coursera has a vested interest in understanding the likelihood of each individua
 
 #### Dataset
 A real dataset (413955 rows × 37 columns) from Coursera to build a classification model that predicts whether a learner will or will not be subscribed to Coursera. The dataset is a sample of subscriptions that were initiated in 2021, all snapshotted at a particular date before the subscription was cancelled.
+
+The dataset is proprietary to Coursera and I won't be uploading training and testing data csv file anywhere online. Please do not message me for the dataset.
 
 #### Challenge
 Imagine that you are a new data scientist at Coursera and you are tasked with building a model that can predict which existing specialization subscribers will continue their subscriptions for another month. 
